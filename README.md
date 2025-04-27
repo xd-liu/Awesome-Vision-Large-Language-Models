@@ -1,30 +1,31 @@
-# Awesome Vision Large Language Models - Methods and Applications
+# 😎 Awesome Vision Large Language Models - Methods and Applications
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xd-liu/Awesome-Vision-Large-Language-Models) 
 
-A collection of papers on Vision Large Language Models and their Applications.
+A curated repository of Vision Large Language Models (VLLMs) papers, methods, and applications. Welcome to contribute by submitting your code, papers, or projects via pull requests or issues!
 
-## Table of Contents
-- [Awesome Vision Large Language Models - Methods and Applications](#awesome-vision-large-language-models---methods-and-applications)
-  - [Table of Contents](#table-of-contents)
-  - [Architectural Innovations](#architectural-innovations)
+## 🔥 Table of Contents
+- [😎 Awesome Vision Large Language Models - Methods and Applications](#-awesome-vision-large-language-models---methods-and-applications)
+  - [🔥 Table of Contents](#-table-of-contents)
+  - [🏗️ Architectural Innovations](#️-architectural-innovations)
     - [Multimodal Foundation Models](#multimodal-foundation-models)
     - [Projection and Fusion Mechanisms](#projection-and-fusion-mechanisms)
     - [Long Context](#long-context)
     - [Mixture-of-Experts](#mixture-of-experts)
     - [Model Compression](#model-compression)
-  - [Training and Alignment](#training-and-alignment)
+  - [🔄 Training and Alignment](#-training-and-alignment)
     - [Pre-training Objectives](#pre-training-objectives)
     - [Instruction Tuning](#instruction-tuning)
     - [Alignment](#alignment)
-  - [Data Scaling and Curation](#data-scaling-and-curation)
-  - [Advanced Reasoning Capabilities](#advanced-reasoning-capabilities)
+  - [📊 Data Scaling and Curation](#-data-scaling-and-curation)
+  - [🧠 Advanced Reasoning Capabilities](#-advanced-reasoning-capabilities)
     - [Reasoning Models](#reasoning-models)
     - [Chain-of-Thought](#chain-of-thought)
     - [Visual Reasoning](#visual-reasoning)
     - [In-Context Learning](#in-context-learning)
-  - [Hallucination Mitigation](#hallucination-mitigation)
-  - [Evaluation and Benchmarks](#evaluation-and-benchmarks)
-  - [Surveys](#surveys)
-  - [Application Domains](#application-domains)
+  - [🛡️ Hallucination Mitigation](#️-hallucination-mitigation)
+  - [📏 Evaluation and Benchmarks](#-evaluation-and-benchmarks)
+  - [📚 Surveys](#-surveys)
+  - [🌐 Application Domains](#-application-domains)
     - [Video Understanding](#video-understanding)
     - [Embodied Intelligence](#embodied-intelligence)
     - [Autonomous Driving](#autonomous-driving)
@@ -35,7 +36,7 @@ A collection of papers on Vision Large Language Models and their Applications.
     - [Gaming AI](#gaming-ai)
     - [GUI Agents](#gui-agents)
 
-## Architectural Innovations
+## 🏗️ Architectural Innovations
 
 ### Multimodal Foundation Models
 
@@ -94,7 +95,7 @@ A collection of papers on Vision Large Language Models and their Applications.
 | [**NanoVLMs: How Small Can We Go and Still Make Coherent Vision Language Models?**](https://arxiv.org/abs/2502.07838) | arXiv | 2025-02 | [GitHub](https://github.com/eisneim/nanoVLM) | - |
 | [**LLaVA-Mini**](https://arxiv.org/abs/2501.03895) | arXiv | 2025-01 | - | - |
 
-## Training and Alignment
+## 🔄 Training and Alignment
 
 ### Pre-training Objectives
 
@@ -124,7 +125,7 @@ A collection of papers on Vision Large Language Models and their Applications.
 | [**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**](https://arxiv.org/abs/2502.10391) | arXiv | 2025-02 | [Github](https://github.com/Kwai-YuanQi/MM-RLHF) | - |
 | [**Aligning Large Multimodal Models with Factually Augmented RLHF**](https://arxiv.org/abs/2309.14525) | arXiv | 2023-09 | [Github](https://github.com/llava-rlhf/LLaVA-RLHF) | [Project](https://llava-rlhf.github.io/) |
 
-## Data Scaling and Curation
+## 📊 Data Scaling and Curation
 
 | Title | Venue | Date | Code | Project |
 |-------|-------|------|------|---------|
@@ -132,7 +133,7 @@ A collection of papers on Vision Large Language Models and their Applications.
 | [**Vision-Language Model Dialog Games for Self-Improvement**](https://arxiv.org/abs/2502.02740) | arXiv | 2025-02 | - | - |
 | [**Scalable Vision Language Model Training via High Quality Data Curation**](https://arxiv.org/abs/2501.05952) | arXiv | 2025-01 | - | - |
 
-## Advanced Reasoning Capabilities
+## 🧠 Advanced Reasoning Capabilities
 
 ### Reasoning Models
 
@@ -176,7 +177,7 @@ A collection of papers on Vision Large Language Models and their Applications.
 | [**An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA**](https://ojs.aaai.org/index.php/AAAI/article/download/20215/19974) | AAAI | 2022-06 | [Github](https://github.com/microsoft/PICa) | - |
 | [**Multimodal Few-Shot Learning with Frozen Language Models**](https://arxiv.org/abs/2106.13884.pdf) | NeurIPS | 2021-06 | - | - |
 
-## Hallucination Mitigation
+## 🛡️ Hallucination Mitigation
 
 | Title | Venue | Date | Code | Project |
 |-------|-------|------|------|---------|
@@ -185,7 +186,7 @@ A collection of papers on Vision Large Language Models and their Applications.
 | [**HallE-Control: Hallucination Detection and Control for Large Vision-Language Models**](https://arxiv.org/abs/2310.01779) | arXiv | 2023-10 | [Github](https://github.com/bronyayang/HallE_Control) | - |
 | [**POPE: Evaluating Object Hallucination in Large Vision-Language Models**](https://arxiv.org/abs/2305.10355) | arXiv | 2023-05 | [Github](https://github.com/RUCAIBox/POPE) | - |
 
-## Evaluation and Benchmarks
+## 📏 Evaluation and Benchmarks
 
 | Title | Domain | Date | Project |
 |-------|--------|------|---------|
@@ -200,7 +201,7 @@ A collection of papers on Vision Large Language Models and their Applications.
 | [**MM-Vet**](https://arxiv.org/abs/2308.02490) | OCR, visual reasoning | 2023-08 | [Github](https://github.com/yuweihao/MM-Vet) |
 | [**MMBench**](https://arxiv.org/abs/2307.06281) | Multilingual multimodal understanding | 2023-07 | [Github](https://github.com/open-compass/MMBench) |
 
-## Surveys
+## 📚 Surveys
 
 | Title | Focus | Date | Link |
 |-------|-------|------|------|
@@ -212,7 +213,7 @@ A collection of papers on Vision Large Language Models and their Applications.
 | [**Visual Large Language Models for Generalized and Specialized Applications**](https://arxiv.org/abs/2501.02765) | Applications & Ethics | 2025-01 | [Paper](https://arxiv.org/abs/2501.02765) |
 | [**A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges**](https://arxiv.org/abs/2501.02189) | Benchmarks & Challenges | 2025-01 | [Paper](https://arxiv.org/abs/2501.02189) |
 
-## Application Domains
+## 🌐 Application Domains
 
 ### Video Understanding
 
